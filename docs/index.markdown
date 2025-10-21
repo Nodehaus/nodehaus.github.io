@@ -4,3 +4,31 @@
 
 layout: home
 ---
+
+# Nodehaus AI Platform
+
+## Own Your AI. Train and Deploy your Fine-Tuned Models.
+
+VIDEO
+
+At Nodehaus, we help organizations build and deploy their own AI models -
+keeping your data and intellectual property exactly where they belong: with you.
+
+[Contact us](https://www.nodehaus.io/#contact) for a demo, to discuss your use
+case and to get access to our platform.
+
+## Why do we build this?
+
+AI models used in agents mostly perform repetitive tasks that small models can
+perform a lot more economically than larger models. This approach is
+[faster, saves money and reduces ecological impact](https://research.nvidia.com/labs/lpr/slm-agents/).
+
+To maximize your custom models' performance in agentic systems, you need
+training data - which is why we built a platform that allows you to create and
+curate training data upfront and augment the data while your users interact with
+the AI.
+
+Apply the training data then to fine-tune a better model that you can download
+or directly deploy in our infrastructure with an Open AI compatible endpoint.
+
+Turn your AI interactions into small, custom models for agentic AI!
