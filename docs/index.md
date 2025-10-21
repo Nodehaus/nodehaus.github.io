@@ -1,8 +1,6 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
 ---
 
 # Nodehaus AI Platform
@@ -16,6 +14,8 @@ keeping your data and intellectual property exactly where they belong: with you.
 
 [Contact us](https://www.nodehaus.io/#contact) for a demo, to discuss your use
 case and to get access to our platform.
+
+[View code and deploy](https://github.com/Nodehaus/ai-platform)
 
 ## Why do we build this?
 
