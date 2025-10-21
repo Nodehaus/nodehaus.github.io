@@ -27,13 +27,13 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://nodehaus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #witter_username: jekyllrb
 #github_username:  jekyll
+show_downloads: false
 
 # Build settings
 #theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+theme: cayman
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme 
 
 # Exclude from processing.
 # The following items will not be processed, by default.

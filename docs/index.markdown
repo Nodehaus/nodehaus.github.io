@@ -9,7 +9,7 @@ layout: home
 
 ## Own Your AI. Train and Deploy your Fine-Tuned Models.
 
-VIDEO
+<iframe title="Nodehaus AI Platform Walkthrough" width="560" height="315" src="https://clip.place/videos/embed/gGTGkzkXmdpo5SRJLZJsVW" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 At Nodehaus, we help organizations build and deploy their own AI models -
 keeping your data and intellectual property exactly where they belong: with you.
