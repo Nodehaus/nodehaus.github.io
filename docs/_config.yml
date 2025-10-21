@@ -29,6 +29,7 @@ url: "https://nodehaus.github.io" # the base hostname & protocol for your site, 
 #github_username:  jekyll
 show_downloads: false
 github:
+  is_project_page: true
   repository_url: https://github.com/Nodehaus/ai-platform
 
 
