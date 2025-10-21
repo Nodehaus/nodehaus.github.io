@@ -21,9 +21,9 @@
 title: Nodehaus AI Platform
 email: hello@nodehaus.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Own Your AI. Deploy Your Intelligence.
+  Own Your AI. Train and Deploy your Fine-Tuned Models.
 domain: nodehaus.github.io
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nodehaus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #witter_username: jekyllrb
 #github_username:  jekyll
