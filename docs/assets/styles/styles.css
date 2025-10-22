@@ -1,0 +1,160 @@
+/* Nodehaus Custom Styling for GitHub Pages */
+
+/* Import fonts from main site */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+/* CSS Variables for Nodehaus branding */
+:root {
+  --nodehaus-light-blue: rgba(235, 241, 252, 0.9);
+  --nodehaus-white: rgb(255, 255, 255);
+  --nodehaus-black: rgb(0, 0, 0);
+  --nodehaus-gray: rgb(245, 245, 245);
+  --nodehaus-gray-light: rgba(245, 245, 245, 0.2);
+  --nodehaus-gray-medium: rgb(230, 230, 230);
+  --nodehaus-gray-dark: rgb(200, 200, 200);
+  --nodehaus-white-transparent: rgba(255, 255, 255, 0.3);
+  --nodehaus-black-transparent: rgba(0, 0, 0, 0.4);
+  --nodehaus-black-medium: rgba(0, 0, 0, 0.55);
+}
+
+/* Override Cayman theme with Nodehaus branding */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Header gradient - elegant grey gradient */
+.page-header {
+  background: linear-gradient(135deg, rgb(240, 240, 240) 0%, rgb(220, 220, 220) 100%) !important;
+  background-image: linear-gradient(135deg, rgb(240, 240, 240) 0%, rgb(220, 220, 220) 100%) !important;
+  color: var(--nodehaus-black) !important;
+}
+
+/* Project title - using Plus Jakarta Sans like main site */
+.project-name {
+  font-family: 'Plus Jakarta Sans', 'Inter', sans-serif;
+  font-weight: 700;
+  color: var(--nodehaus-black);
+  text-shadow: none;
+}
+
+/* Project tagline */
+.project-tagline {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: var(--nodehaus-black-medium);
+  opacity: 0.9;
+}
+
+/* Buttons */
+.btn {
+  background-color: var(--nodehaus-black);
+  color: var(--nodehaus-white);
+  border: 2px solid var(--nodehaus-black);
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: var(--nodehaus-white);
+  color: var(--nodehaus-black);
+  border-color: var(--nodehaus-black);
+}
+
+/* Main content area */
+.main-content {
+  font-family: 'Inter', sans-serif;
+  color: var(--nodehaus-black);
+}
+
+/* Headings - using Plus Jakarta Sans for emphasis */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  font-family: 'Plus Jakarta Sans', 'Inter', sans-serif;
+  font-weight: 700;
+  color: var(--nodehaus-black);
+}
+
+/* Links */
+.main-content a {
+  color: var(--nodehaus-black);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  transition: all 0.2s ease;
+}
+
+.main-content a:hover {
+  color: var(--nodehaus-black-medium);
+  text-decoration-thickness: 3px;
+}
+
+/* Code blocks */
+.main-content pre {
+  background-color: var(--nodehaus-gray);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.main-content code {
+  background-color: var(--nodehaus-gray);
+  color: var(--nodehaus-black);
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+}
+
+/* Blockquotes */
+.main-content blockquote {
+  border-left: 4px solid var(--nodehaus-black);
+  color: var(--nodehaus-black-medium);
+  background-color: var(--nodehaus-gray);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+}
+
+/* Tables */
+.main-content table {
+  border-color: var(--nodehaus-gray);
+}
+
+.main-content table th {
+  background-color: var(--nodehaus-gray);
+  color: var(--nodehaus-black);
+  font-weight: 700;
+}
+
+.main-content table tr:nth-child(even) {
+  background-color: rgba(245, 245, 245, 0.5);
+}
+
+/* Iframe container styling */
+.main-content div[style*="text-align:center"] {
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: var(--nodehaus-gray);
+  border-radius: 8px;
+}
+
+/* Responsive iframe */
+.main-content iframe {
+  max-width: 100%;
+  border-radius: 4px;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 2px solid var(--nodehaus-gray);
+  font-family: 'Inter', sans-serif;
+}
+
+.site-footer-owner,
+.site-footer-credits {
+  color: var(--nodehaus-black-medium);
+}

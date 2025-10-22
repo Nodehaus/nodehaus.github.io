@@ -13,8 +13,8 @@ At **Nodehaus**, we empower organizations to **build, deploy, and own their own
 AI models** — keeping your **data, IP, and competitive edge** exactly where they
 belong: with you.
 
-👉 [Contact us](https://www.nodehaus.io/#contact) for a demo, to explore your
-use case, and to unlock the power of your own agentic AI.
+[Contact us](https://www.nodehaus.io/#contact) for a demo, to explore your use
+case, and to unlock the power of your own agentic AI.
 
 ## Why do we build this?
 
@@ -38,8 +38,8 @@ Deploy your models directly through our **OpenAI-compatible endpoints** — or
 Turn every AI interaction into **smarter, faster, more efficient custom models**
 — purpose-built for your organization.
 
-👉 [Contact us](https://www.nodehaus.io/#contact) for a demo, to explore your
-use case, and to unlock the power of your own agentic AI.
+[Contact us](https://www.nodehaus.io/#contact) for a demo, to explore your use
+case, and to unlock the power of your own agentic AI.
 
 [1]
 [https://research.nvidia.com/labs/lpr/slm-agents/](https://research.nvidia.com/labs/lpr/slm-agents/)
