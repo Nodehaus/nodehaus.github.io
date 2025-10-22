@@ -5,6 +5,10 @@
 <iframe title="Nodehaus AI Platform Walkthrough" width="560" height="315" src="https://clip.place/videos/embed/gGTGkzkXmdpo5SRJLZJsVW" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 </div>
 
+The AI platform **creates synthetic training data** to finetune language models
+with a simple use case description. **Deploy your custom model** and user
+interactions will **enrich the training data**, improving future model versions.
+
 At **Nodehaus**, we empower organizations to **build, deploy, and own their own
 AI models** — keeping your **data, IP, and competitive edge** exactly where they
 belong: with you.
