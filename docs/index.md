@@ -5,26 +5,37 @@
 <iframe title="Nodehaus AI Platform Walkthrough" width="560" height="315" src="https://clip.place/videos/embed/gGTGkzkXmdpo5SRJLZJsVW" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 </div>
 
-At Nodehaus, we help organizations build and deploy their own AI models -
-keeping your data and intellectual property exactly where they belong: with you.
+At **Nodehaus**, we empower organizations to **build, deploy, and own their own
+AI models** — keeping your **data, IP, and competitive edge** exactly where they
+belong: with you.
 
-[Contact us](https://www.nodehaus.io/#contact) for a demo, to discuss your use
-case and to get access to our platform.
-
-[View code and deploy](https://github.com/Nodehaus/ai-platform)
+👉 [Contact us](https://www.nodehaus.io/#contact) for a demo, to explore your
+use case, and to unlock the power of your own agentic AI.
 
 ## Why do we build this?
 
-AI models used in agents mostly perform repetitive tasks that small models can
-perform a lot more economically than larger models. This approach is
-[faster, saves money and reduces ecological impact](https://research.nvidia.com/labs/lpr/slm-agents/).
+Most AI agents rely on oversized models to perform simple, repetitive tasks —
+wasting compute, money, and energy. Our approach flips the script.
 
-To maximize your custom models' performance in agentic systems, you need
-training data - which is why we built a platform that allows you to create and
-curate training data upfront and augment the data while your users interact with
-the AI.
+With **smaller, specialized models**, you get **faster performance**, **lower
+costs**, and a **lighter ecological footprint** — without sacrificing quality.
+[1]
 
-Apply the training data then to fine-tune a better model that you can download
-or directly deploy in our infrastructure with an Open AI compatible endpoint.
+To get the most out of your agentic AI, you need **great training data**. That’s
+why we built a platform that makes it effortless to:
 
-Turn your AI interactions into small, custom models for agentic AI!
+- **Create and curate** high-quality training data upfront
+- **Continuously enrich** your dataset as users interact with your AI
+- **Fine-tune** your own models for maximum performance
+
+Deploy your models directly through our **OpenAI-compatible endpoints** — or
+**download them to run anywhere you choose**.
+
+Turn every AI interaction into **smarter, faster, more efficient custom models**
+— purpose-built for your organization.
+
+👉 [Contact us](https://www.nodehaus.io/#contact) for a demo, to explore your
+use case, and to unlock the power of your own agentic AI.
+
+[1]
+[https://research.nvidia.com/labs/lpr/slm-agents/](https://research.nvidia.com/labs/lpr/slm-agents/)
